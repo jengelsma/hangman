@@ -1,35 +1,17 @@
 # hangman
 
-FIXME: description
+This is a simple hangman game written in Clojure.  
 
-## Installation
+## Running the application 
 
-Download from http://example.com/FIXME.
+First, make sure you have leiningen installed in your environment.  Download it from http://leiningen.org and follow the installation instructions for your environment.
 
-## Usage
+Once leiningin is installed, cd to the top level diretory and issue the following command from your command shell:
 
-FIXME: explanation
-
-    $ java -jar hangman-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+lein run
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Jonathan R. Engelsma
 
 Distributed under the Eclipse Public License, the same as Clojure.
